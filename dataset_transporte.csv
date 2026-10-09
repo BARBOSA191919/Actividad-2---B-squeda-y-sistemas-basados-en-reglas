@@ -1,0 +1,501 @@
+parada_origen,parada_destino,dia_semana,hora,clima,retraso_minutos,cantidad_personas,cantidad_rutas
+San Pedro Plaza,Terminal,Sábado,10,Soleado,3,28,2
+Estadio,Universidad,Viernes,12,Lluvioso,13,39,2
+Parque Santander,Universidad,Sábado,6,Lluvioso,15,27,2
+Estadio,Parque Santander,Sábado,16,Lluvioso,17,29,2
+Estadio,Aeropuerto,Domingo,17,Lluvioso,21,60,3
+Aeropuerto,San Pedro Plaza,Jueves,11,Nublado,3,27,2
+Parque Santander,Universidad,Sábado,14,Lluvioso,13,39,2
+Parque Santander,Estadio,Miércoles,17,Nublado,9,67,3
+Parque Santander,San Pedro Plaza,Sábado,21,Nublado,6,28,2
+Estadio,Aeropuerto,Sábado,18,Nublado,11,61,3
+San Pedro Plaza,Parque Santander,Sábado,6,Soleado,3,34,2
+Parque Santander,Aeropuerto,Domingo,15,Nublado,4,28,2
+Universidad,Aeropuerto,Domingo,5,Nublado,7,27,2
+Estadio,Parque Santander,Lunes,8,Soleado,13,61,3
+Aeropuerto,Universidad,Domingo,15,Soleado,4,41,3
+San Pedro Plaza,Terminal,Miércoles,12,Soleado,7,45,3
+Universidad,Estadio,Miércoles,15,Lluvioso,16,44,3
+Universidad,Estadio,Domingo,8,Soleado,12,72,4
+Aeropuerto,San Pedro Plaza,Viernes,21,Soleado,2,29,2
+San Pedro Plaza,Aeropuerto,Jueves,11,Nublado,2,45,3
+Estadio,Terminal,Domingo,12,Soleado,2,33,2
+Terminal,San Pedro Plaza,Sábado,7,Lluvioso,23,65,3
+San Pedro Plaza,Parque Santander,Martes,6,Soleado,6,29,2
+Aeropuerto,San Pedro Plaza,Jueves,19,Lluvioso,22,69,3
+Universidad,San Pedro Plaza,Jueves,9,Soleado,12,67,3
+Estadio,Aeropuerto,Miércoles,5,Soleado,4,31,2
+San Pedro Plaza,Parque Santander,Jueves,8,Soleado,12,66,3
+Terminal,San Pedro Plaza,Domingo,19,Soleado,10,65,3
+Terminal,Aeropuerto,Sábado,7,Lluvioso,18,80,4
+Parque Santander,Terminal,Sábado,15,Lluvioso,12,44,3
+Parque Santander,Estadio,Lunes,21,Nublado,7,27,2
+Aeropuerto,Parque Santander,Sábado,17,Lluvioso,18,78,4
+San Pedro Plaza,Parque Santander,Sábado,15,Soleado,7,39,2
+San Pedro Plaza,Estadio,Miércoles,6,Nublado,3,28,2
+Universidad,San Pedro Plaza,Sábado,13,Nublado,3,36,2
+Universidad,Parque Santander,Lunes,6,Nublado,5,30,2
+Universidad,Terminal,Martes,13,Soleado,7,43,3
+Parque Santander,Terminal,Domingo,13,Lluvioso,15,28,2
+San Pedro Plaza,Aeropuerto,Miércoles,12,Soleado,5,39,2
+San Pedro Plaza,Parque Santander,Martes,21,Nublado,3,33,2
+Terminal,San Pedro Plaza,Miércoles,5,Soleado,7,29,2
+Parque Santander,Estadio,Viernes,15,Soleado,3,37,2
+Estadio,Universidad,Jueves,12,Lluvioso,15,42,3
+Parque Santander,San Pedro Plaza,Viernes,14,Lluvioso,17,29,2
+Estadio,Universidad,Sábado,11,Nublado,5,40,2
+Terminal,Aeropuerto,Martes,7,Soleado,12,78,4
+Aeropuerto,Estadio,Sábado,7,Soleado,13,73,4
+San Pedro Plaza,Parque Santander,Jueves,22,Lluvioso,17,40,2
+Terminal,Aeropuerto,Miércoles,9,Soleado,11,74,4
+San Pedro Plaza,Parque Santander,Jueves,16,Soleado,6,28,2
+Universidad,Terminal,Lunes,16,Soleado,4,31,2
+Aeropuerto,Estadio,Jueves,10,Lluvioso,13,40,2
+Aeropuerto,Estadio,Lunes,6,Nublado,5,45,3
+Terminal,Aeropuerto,Jueves,16,Nublado,7,45,3
+Aeropuerto,Parque Santander,Domingo,9,Soleado,9,67,3
+Estadio,Aeropuerto,Lunes,16,Nublado,3,41,3
+Aeropuerto,Universidad,Martes,21,Lluvioso,13,40,2
+San Pedro Plaza,Aeropuerto,Sábado,21,Lluvioso,14,34,2
+San Pedro Plaza,Parque Santander,Sábado,14,Nublado,2,34,2
+San Pedro Plaza,Terminal,Viernes,21,Nublado,5,26,2
+San Pedro Plaza,Parque Santander,Sábado,19,Soleado,8,68,3
+Estadio,Aeropuerto,Miércoles,16,Nublado,2,41,3
+Parque Santander,Estadio,Domingo,20,Soleado,2,35,2
+Universidad,Aeropuerto,Jueves,12,Soleado,3,34,2
+Terminal,Estadio,Viernes,21,Lluvioso,16,41,3
+San Pedro Plaza,Parque Santander,Miércoles,9,Lluvioso,19,63,3
+Aeropuerto,Estadio,Miércoles,20,Lluvioso,13,40,2
+San Pedro Plaza,Aeropuerto,Lunes,10,Lluvioso,17,44,3
+Aeropuerto,Terminal,Sábado,12,Nublado,7,39,2
+Universidad,Estadio,Martes,22,Lluvioso,12,45,3
+Universidad,Estadio,Martes,16,Nublado,3,29,2
+Universidad,Terminal,Viernes,19,Lluvioso,18,65,3
+Aeropuerto,San Pedro Plaza,Domingo,13,Nublado,7,41,3
+San Pedro Plaza,Aeropuerto,Martes,17,Soleado,12,60,3
+Universidad,Estadio,Jueves,19,Nublado,11,78,4
+Estadio,Terminal,Martes,14,Nublado,2,28,2
+Aeropuerto,Parque Santander,Viernes,20,Lluvioso,16,41,3
+Aeropuerto,Terminal,Martes,11,Nublado,5,33,2
+San Pedro Plaza,Parque Santander,Jueves,21,Soleado,4,26,2
+Aeropuerto,San Pedro Plaza,Lunes,11,Soleado,2,32,2
+Aeropuerto,Terminal,Domingo,18,Lluvioso,18,74,4
+Universidad,Terminal,Viernes,19,Soleado,10,66,3
+San Pedro Plaza,Universidad,Lunes,11,Nublado,4,30,2
+Universidad,Estadio,Lunes,13,Soleado,2,25,2
+Universidad,San Pedro Plaza,Lunes,20,Lluvioso,14,39,2
+San Pedro Plaza,Terminal,Miércoles,12,Nublado,3,31,2
+Terminal,Estadio,Domingo,22,Lluvioso,15,41,3
+Universidad,Terminal,Sábado,22,Nublado,5,26,2
+Estadio,Parque Santander,Domingo,11,Soleado,5,33,2
+Estadio,Terminal,Miércoles,7,Lluvioso,19,68,3
+Aeropuerto,Universidad,Sábado,22,Lluvioso,14,37,2
+Estadio,Terminal,Domingo,14,Nublado,6,30,2
+Aeropuerto,Terminal,Lunes,11,Lluvioso,14,30,2
+Terminal,Universidad,Viernes,21,Nublado,2,44,3
+San Pedro Plaza,Estadio,Sábado,18,Nublado,13,79,4
+San Pedro Plaza,Terminal,Jueves,7,Nublado,11,80,4
+San Pedro Plaza,Universidad,Jueves,16,Nublado,4,27,2
+Estadio,Parque Santander,Martes,17,Soleado,12,76,4
+Terminal,Parque Santander,Sábado,6,Nublado,2,41,3
+Estadio,Parque Santander,Viernes,7,Lluvioso,19,71,4
+Estadio,Terminal,Miércoles,9,Soleado,9,75,4
+Terminal,San Pedro Plaza,Lunes,15,Lluvioso,16,39,2
+Terminal,San Pedro Plaza,Martes,12,Soleado,2,37,2
+Terminal,Estadio,Jueves,16,Nublado,5,25,2
+Terminal,Parque Santander,Miércoles,11,Soleado,4,41,3
+San Pedro Plaza,Parque Santander,Miércoles,19,Soleado,8,62,3
+Parque Santander,San Pedro Plaza,Lunes,21,Lluvioso,13,39,2
+Parque Santander,Terminal,Sábado,8,Lluvioso,22,63,3
+Terminal,San Pedro Plaza,Jueves,17,Nublado,12,63,3
+Parque Santander,Universidad,Viernes,22,Soleado,4,42,3
+Parque Santander,San Pedro Plaza,Miércoles,5,Soleado,6,41,3
+Terminal,Parque Santander,Lunes,20,Soleado,6,43,3
+Parque Santander,Aeropuerto,Viernes,17,Nublado,8,70,3
+Estadio,San Pedro Plaza,Sábado,14,Nublado,5,44,3
+Aeropuerto,Estadio,Jueves,16,Nublado,4,27,2
+Aeropuerto,Parque Santander,Sábado,6,Nublado,2,32,2
+Terminal,San Pedro Plaza,Miércoles,7,Nublado,11,73,4
+San Pedro Plaza,Terminal,Viernes,14,Lluvioso,12,25,2
+Terminal,San Pedro Plaza,Viernes,6,Soleado,7,38,2
+San Pedro Plaza,Parque Santander,Viernes,17,Soleado,8,61,3
+Aeropuerto,Estadio,Miércoles,17,Soleado,12,63,3
+Terminal,San Pedro Plaza,Miércoles,22,Soleado,5,43,3
+Universidad,Estadio,Sábado,7,Soleado,10,65,3
+Estadio,Terminal,Martes,11,Soleado,4,25,2
+Parque Santander,Estadio,Sábado,18,Soleado,11,76,4
+San Pedro Plaza,Estadio,Jueves,21,Soleado,6,32,2
+Universidad,Aeropuerto,Lunes,16,Lluvioso,13,43,3
+Parque Santander,Aeropuerto,Viernes,20,Soleado,2,45,3
+Parque Santander,Universidad,Martes,16,Lluvioso,16,25,2
+Terminal,Aeropuerto,Lunes,19,Nublado,13,64,3
+Parque Santander,Estadio,Martes,14,Soleado,5,40,2
+Estadio,Parque Santander,Domingo,11,Nublado,2,30,2
+Universidad,Estadio,Sábado,9,Nublado,10,67,3
+Parque Santander,Universidad,Miércoles,5,Nublado,3,37,2
+Terminal,Parque Santander,Viernes,21,Lluvioso,17,40,2
+Estadio,Aeropuerto,Sábado,7,Nublado,10,62,3
+Aeropuerto,San Pedro Plaza,Lunes,17,Nublado,11,78,4
+Universidad,Terminal,Domingo,18,Nublado,8,71,4
+Parque Santander,Aeropuerto,Domingo,22,Soleado,5,40,2
+Terminal,Aeropuerto,Domingo,8,Soleado,8,70,3
+Aeropuerto,San Pedro Plaza,Lunes,22,Lluvioso,16,34,2
+Aeropuerto,Terminal,Lunes,9,Lluvioso,19,79,4
+San Pedro Plaza,Estadio,Lunes,20,Soleado,6,28,2
+Estadio,Universidad,Lunes,5,Lluvioso,16,36,2
+Parque Santander,Universidad,Domingo,18,Soleado,11,61,3
+Terminal,Estadio,Domingo,19,Nublado,9,78,4
+San Pedro Plaza,Aeropuerto,Martes,13,Nublado,2,29,2
+Estadio,Terminal,Sábado,19,Lluvioso,18,67,3
+San Pedro Plaza,Aeropuerto,Viernes,21,Soleado,7,31,2
+Universidad,Parque Santander,Miércoles,8,Soleado,10,73,4
+Estadio,Aeropuerto,Domingo,16,Lluvioso,17,27,2
+Estadio,Aeropuerto,Miércoles,9,Soleado,13,77,4
+Parque Santander,Estadio,Sábado,9,Nublado,8,75,4
+Estadio,Universidad,Sábado,15,Lluvioso,15,43,3
+San Pedro Plaza,Estadio,Miércoles,10,Lluvioso,16,43,3
+Estadio,Universidad,Domingo,11,Soleado,6,42,3
+Parque Santander,Terminal,Miércoles,18,Lluvioso,22,79,4
+Parque Santander,Estadio,Martes,15,Soleado,3,40,2
+Universidad,Terminal,Jueves,17,Soleado,8,67,3
+San Pedro Plaza,Universidad,Domingo,6,Soleado,5,25,2
+Aeropuerto,San Pedro Plaza,Domingo,11,Soleado,3,41,3
+Aeropuerto,Terminal,Viernes,8,Soleado,10,71,4
+Estadio,Terminal,Lunes,12,Lluvioso,15,45,3
+Universidad,Estadio,Jueves,17,Nublado,13,70,3
+Terminal,San Pedro Plaza,Sábado,18,Nublado,11,64,3
+Estadio,San Pedro Plaza,Domingo,14,Lluvioso,15,36,2
+Universidad,Aeropuerto,Miércoles,15,Lluvioso,16,41,3
+San Pedro Plaza,Parque Santander,Jueves,6,Nublado,5,30,2
+San Pedro Plaza,Parque Santander,Viernes,13,Nublado,7,25,2
+San Pedro Plaza,Estadio,Sábado,21,Nublado,7,29,2
+San Pedro Plaza,Aeropuerto,Lunes,7,Nublado,8,73,4
+San Pedro Plaza,Universidad,Lunes,10,Nublado,5,29,2
+Universidad,Parque Santander,Viernes,9,Soleado,12,60,3
+Universidad,Aeropuerto,Viernes,9,Lluvioso,21,77,4
+Parque Santander,Aeropuerto,Miércoles,19,Soleado,10,75,4
+Aeropuerto,Parque Santander,Domingo,21,Nublado,4,33,2
+San Pedro Plaza,Universidad,Lunes,13,Nublado,6,43,3
+Terminal,Parque Santander,Sábado,7,Nublado,8,64,3
+Universidad,Estadio,Jueves,21,Soleado,2,26,2
+Terminal,Estadio,Sábado,14,Soleado,7,39,2
+Terminal,Aeropuerto,Martes,7,Nublado,13,66,3
+Terminal,San Pedro Plaza,Martes,22,Soleado,3,28,2
+Parque Santander,Universidad,Viernes,22,Soleado,6,25,2
+Universidad,Aeropuerto,Miércoles,21,Nublado,5,37,2
+Terminal,San Pedro Plaza,Martes,7,Soleado,12,79,4
+San Pedro Plaza,Universidad,Lunes,7,Lluvioso,19,66,3
+Estadio,Universidad,Sábado,10,Lluvioso,17,39,2
+Terminal,San Pedro Plaza,Sábado,17,Lluvioso,22,73,4
+Parque Santander,Terminal,Viernes,19,Lluvioso,22,78,4
+Universidad,Parque Santander,Domingo,13,Nublado,7,44,3
+Parque Santander,Estadio,Domingo,8,Nublado,9,77,4
+Terminal,San Pedro Plaza,Jueves,18,Nublado,13,69,3
+Universidad,Terminal,Viernes,9,Lluvioso,18,68,3
+Estadio,Terminal,Jueves,6,Lluvioso,15,32,2
+Terminal,San Pedro Plaza,Domingo,15,Soleado,7,34,2
+Parque Santander,Terminal,Viernes,13,Soleado,3,41,3
+Aeropuerto,Terminal,Viernes,7,Lluvioso,20,61,3
+San Pedro Plaza,Terminal,Viernes,13,Lluvioso,12,30,2
+Parque Santander,Universidad,Domingo,7,Lluvioso,20,64,3
+Universidad,Estadio,Jueves,6,Lluvioso,17,33,2
+Terminal,Universidad,Jueves,16,Soleado,2,29,2
+San Pedro Plaza,Aeropuerto,Viernes,14,Lluvioso,15,42,3
+Terminal,San Pedro Plaza,Martes,13,Soleado,7,44,3
+Universidad,Estadio,Miércoles,19,Lluvioso,21,68,3
+Terminal,Estadio,Domingo,12,Lluvioso,16,41,3
+Aeropuerto,Estadio,Miércoles,9,Lluvioso,20,76,4
+San Pedro Plaza,Estadio,Miércoles,15,Soleado,2,36,2
+San Pedro Plaza,Universidad,Jueves,6,Soleado,5,31,2
+Universidad,Estadio,Jueves,19,Nublado,9,62,3
+Aeropuerto,Parque Santander,Martes,10,Lluvioso,15,34,2
+Parque Santander,San Pedro Plaza,Miércoles,12,Nublado,3,26,2
+Terminal,Estadio,Miércoles,9,Nublado,13,62,3
+Estadio,San Pedro Plaza,Viernes,20,Soleado,2,40,2
+Terminal,Parque Santander,Jueves,22,Soleado,5,26,2
+Terminal,Parque Santander,Miércoles,10,Nublado,5,34,2
+Parque Santander,San Pedro Plaza,Sábado,9,Lluvioso,18,65,3
+Terminal,San Pedro Plaza,Martes,20,Soleado,5,35,2
+Aeropuerto,San Pedro Plaza,Sábado,17,Lluvioso,19,66,3
+Aeropuerto,Terminal,Sábado,9,Lluvioso,21,74,4
+San Pedro Plaza,Terminal,Domingo,17,Nublado,10,65,3
+Universidad,San Pedro Plaza,Domingo,21,Nublado,7,44,3
+Estadio,Terminal,Martes,22,Nublado,6,33,2
+Terminal,Estadio,Sábado,12,Nublado,3,44,3
+Terminal,Universidad,Miércoles,17,Soleado,10,71,4
+Parque Santander,Universidad,Jueves,7,Soleado,13,78,4
+Universidad,Parque Santander,Martes,12,Nublado,2,44,3
+Aeropuerto,Terminal,Viernes,6,Soleado,3,27,2
+Estadio,Parque Santander,Sábado,12,Nublado,6,39,2
+San Pedro Plaza,Terminal,Martes,17,Lluvioso,23,61,3
+Aeropuerto,Terminal,Lunes,17,Lluvioso,22,80,4
+Universidad,Estadio,Lunes,5,Lluvioso,12,26,2
+San Pedro Plaza,Aeropuerto,Domingo,10,Nublado,2,27,2
+Parque Santander,San Pedro Plaza,Jueves,20,Lluvioso,13,30,2
+Parque Santander,Estadio,Miércoles,12,Soleado,5,39,2
+Terminal,Aeropuerto,Jueves,5,Lluvioso,12,34,2
+Universidad,San Pedro Plaza,Jueves,20,Lluvioso,17,33,2
+Estadio,San Pedro Plaza,Jueves,13,Lluvioso,15,25,2
+San Pedro Plaza,Aeropuerto,Jueves,17,Soleado,10,75,4
+Aeropuerto,Estadio,Viernes,15,Nublado,6,30,2
+Universidad,San Pedro Plaza,Viernes,17,Soleado,11,68,3
+Universidad,Aeropuerto,Domingo,14,Nublado,6,28,2
+Parque Santander,San Pedro Plaza,Martes,8,Nublado,11,61,3
+Terminal,San Pedro Plaza,Lunes,10,Lluvioso,14,28,2
+Terminal,Estadio,Jueves,11,Nublado,2,25,2
+San Pedro Plaza,Terminal,Domingo,9,Soleado,10,78,4
+Parque Santander,San Pedro Plaza,Martes,15,Soleado,2,34,2
+Universidad,Parque Santander,Lunes,17,Nublado,8,80,4
+Estadio,Universidad,Sábado,14,Lluvioso,16,39,2
+Parque Santander,Terminal,Miércoles,14,Lluvioso,17,43,3
+San Pedro Plaza,Terminal,Viernes,15,Soleado,4,40,2
+San Pedro Plaza,Terminal,Sábado,11,Lluvioso,15,45,3
+Parque Santander,Estadio,Lunes,22,Nublado,4,28,2
+San Pedro Plaza,Estadio,Sábado,8,Nublado,12,61,3
+Parque Santander,Estadio,Miércoles,6,Soleado,2,37,2
+Aeropuerto,San Pedro Plaza,Domingo,18,Nublado,12,60,3
+Parque Santander,Estadio,Lunes,17,Soleado,9,76,4
+Parque Santander,Estadio,Sábado,16,Nublado,3,37,2
+San Pedro Plaza,Universidad,Viernes,11,Soleado,5,28,2
+San Pedro Plaza,Parque Santander,Viernes,6,Lluvioso,16,31,2
+Terminal,Estadio,Martes,17,Nublado,11,76,4
+Terminal,Universidad,Sábado,18,Nublado,11,68,3
+Aeropuerto,Estadio,Jueves,21,Soleado,3,28,2
+Terminal,Parque Santander,Sábado,13,Soleado,5,43,3
+Parque Santander,Estadio,Domingo,21,Nublado,3,25,2
+San Pedro Plaza,Terminal,Lunes,12,Soleado,2,34,2
+Terminal,Aeropuerto,Lunes,6,Nublado,6,28,2
+Terminal,Aeropuerto,Domingo,17,Lluvioso,21,68,3
+Aeropuerto,Universidad,Sábado,7,Soleado,9,72,4
+Universidad,Aeropuerto,Domingo,20,Nublado,4,38,2
+Aeropuerto,Parque Santander,Miércoles,10,Lluvioso,15,34,2
+Parque Santander,Estadio,Domingo,11,Lluvioso,17,30,2
+San Pedro Plaza,Estadio,Viernes,14,Nublado,2,40,2
+Aeropuerto,Terminal,Domingo,13,Soleado,2,30,2
+Terminal,Universidad,Lunes,6,Nublado,4,41,3
+San Pedro Plaza,Terminal,Viernes,19,Lluvioso,19,69,3
+San Pedro Plaza,Aeropuerto,Lunes,9,Nublado,11,77,4
+Terminal,Universidad,Martes,8,Soleado,9,77,4
+Aeropuerto,Parque Santander,Jueves,8,Lluvioso,18,62,3
+Terminal,Estadio,Lunes,22,Nublado,3,44,3
+Universidad,Aeropuerto,Viernes,8,Soleado,8,80,4
+San Pedro Plaza,Terminal,Martes,21,Lluvioso,13,39,2
+Estadio,Universidad,Lunes,16,Soleado,4,39,2
+Estadio,Parque Santander,Miércoles,21,Lluvioso,16,28,2
+Parque Santander,San Pedro Plaza,Domingo,14,Nublado,4,33,2
+Terminal,Estadio,Jueves,5,Soleado,4,43,3
+Terminal,Estadio,Lunes,22,Lluvioso,16,41,3
+Parque Santander,Terminal,Martes,22,Soleado,6,35,2
+Parque Santander,Aeropuerto,Miércoles,18,Soleado,11,68,3
+Parque Santander,Terminal,Sábado,19,Nublado,11,69,3
+San Pedro Plaza,Parque Santander,Martes,16,Soleado,4,42,3
+Universidad,Terminal,Domingo,8,Lluvioso,20,79,4
+Terminal,Estadio,Martes,7,Lluvioso,18,72,4
+San Pedro Plaza,Universidad,Miércoles,16,Lluvioso,12,32,2
+Parque Santander,San Pedro Plaza,Martes,11,Lluvioso,15,31,2
+Terminal,Parque Santander,Miércoles,15,Nublado,7,41,3
+San Pedro Plaza,Estadio,Lunes,5,Soleado,7,45,3
+Universidad,Estadio,Miércoles,10,Nublado,5,39,2
+San Pedro Plaza,Universidad,Miércoles,19,Soleado,8,79,4
+Universidad,Parque Santander,Jueves,19,Soleado,8,74,4
+Parque Santander,Estadio,Miércoles,15,Soleado,7,25,2
+Universidad,Estadio,Miércoles,6,Nublado,3,38,2
+Terminal,Estadio,Sábado,18,Soleado,9,64,3
+Parque Santander,Estadio,Lunes,6,Nublado,2,35,2
+Terminal,Aeropuerto,Domingo,8,Lluvioso,19,75,4
+Estadio,Aeropuerto,Jueves,21,Lluvioso,16,26,2
+Aeropuerto,Parque Santander,Sábado,7,Soleado,11,67,3
+Universidad,Terminal,Viernes,17,Nublado,11,70,3
+Aeropuerto,Estadio,Lunes,13,Lluvioso,12,42,3
+Aeropuerto,Universidad,Lunes,11,Nublado,4,27,2
+Universidad,Terminal,Viernes,19,Nublado,13,60,3
+Parque Santander,Universidad,Domingo,15,Soleado,2,35,2
+Estadio,Terminal,Miércoles,6,Lluvioso,13,40,2
+Terminal,Parque Santander,Sábado,19,Soleado,13,77,4
+San Pedro Plaza,Estadio,Martes,18,Soleado,10,75,4
+Terminal,Estadio,Jueves,15,Lluvioso,13,34,2
+San Pedro Plaza,Aeropuerto,Martes,7,Lluvioso,22,77,4
+Terminal,Universidad,Viernes,21,Nublado,3,30,2
+Universidad,Terminal,Lunes,16,Lluvioso,16,43,3
+Estadio,Terminal,Domingo,19,Nublado,13,63,3
+San Pedro Plaza,Aeropuerto,Lunes,20,Nublado,6,37,2
+Parque Santander,San Pedro Plaza,Jueves,9,Nublado,13,73,4
+Terminal,Aeropuerto,Lunes,10,Lluvioso,17,27,2
+Terminal,Aeropuerto,Lunes,9,Soleado,13,69,3
+San Pedro Plaza,Aeropuerto,Jueves,7,Nublado,13,65,3
+Parque Santander,Universidad,Sábado,5,Soleado,7,25,2
+Parque Santander,Universidad,Sábado,10,Soleado,3,38,2
+Universidad,Parque Santander,Jueves,19,Lluvioso,23,67,3
+Universidad,Parque Santander,Domingo,6,Soleado,3,43,3
+Universidad,Aeropuerto,Viernes,7,Soleado,13,73,4
+Universidad,San Pedro Plaza,Lunes,21,Lluvioso,16,34,2
+Universidad,Terminal,Domingo,16,Nublado,7,41,3
+Universidad,Estadio,Lunes,22,Soleado,4,33,2
+Estadio,San Pedro Plaza,Viernes,19,Lluvioso,23,65,3
+Parque Santander,Estadio,Sábado,16,Soleado,7,35,2
+Universidad,Parque Santander,Domingo,20,Soleado,6,31,2
+Parque Santander,Universidad,Miércoles,12,Nublado,5,41,3
+Parque Santander,Universidad,Miércoles,18,Soleado,12,60,3
+Aeropuerto,Terminal,Miércoles,21,Lluvioso,14,29,2
+Estadio,Terminal,Sábado,12,Soleado,5,33,2
+Universidad,Estadio,Sábado,19,Nublado,8,77,4
+Terminal,Estadio,Viernes,18,Nublado,8,80,4
+San Pedro Plaza,Universidad,Lunes,22,Lluvioso,14,26,2
+Terminal,Aeropuerto,Viernes,11,Nublado,6,35,2
+Estadio,Parque Santander,Viernes,7,Soleado,9,65,3
+San Pedro Plaza,Parque Santander,Sábado,16,Nublado,4,32,2
+Estadio,Universidad,Miércoles,7,Lluvioso,21,63,3
+Parque Santander,San Pedro Plaza,Martes,18,Nublado,11,77,4
+San Pedro Plaza,Aeropuerto,Lunes,19,Nublado,13,70,3
+Parque Santander,Universidad,Sábado,18,Nublado,8,64,3
+Terminal,Aeropuerto,Miércoles,11,Lluvioso,15,39,2
+Terminal,Aeropuerto,Domingo,21,Nublado,4,42,3
+San Pedro Plaza,Aeropuerto,Martes,16,Nublado,5,26,2
+San Pedro Plaza,Universidad,Martes,8,Soleado,10,70,3
+Universidad,Parque Santander,Sábado,13,Lluvioso,13,37,2
+Estadio,Parque Santander,Jueves,10,Nublado,7,28,2
+Universidad,Aeropuerto,Lunes,20,Lluvioso,12,31,2
+Estadio,San Pedro Plaza,Martes,6,Nublado,5,35,2
+Universidad,Terminal,Sábado,12,Nublado,4,28,2
+Parque Santander,Universidad,Sábado,15,Nublado,6,39,2
+San Pedro Plaza,Terminal,Miércoles,17,Soleado,8,60,3
+Terminal,San Pedro Plaza,Domingo,21,Soleado,3,27,2
+Estadio,Universidad,Jueves,12,Soleado,4,38,2
+Estadio,Aeropuerto,Lunes,22,Lluvioso,17,30,2
+Terminal,Parque Santander,Viernes,22,Lluvioso,17,42,3
+Universidad,Terminal,Domingo,18,Soleado,9,60,3
+Estadio,Parque Santander,Domingo,19,Lluvioso,19,65,3
+Parque Santander,Estadio,Miércoles,10,Nublado,7,30,2
+San Pedro Plaza,Universidad,Martes,15,Nublado,5,45,3
+Terminal,Aeropuerto,Martes,17,Nublado,11,75,4
+San Pedro Plaza,Terminal,Miércoles,5,Soleado,4,29,2
+Estadio,Aeropuerto,Sábado,10,Lluvioso,16,41,3
+Estadio,Terminal,Martes,13,Soleado,4,34,2
+Terminal,San Pedro Plaza,Jueves,12,Lluvioso,16,45,3
+Parque Santander,San Pedro Plaza,Lunes,15,Nublado,3,42,3
+Aeropuerto,Estadio,Domingo,13,Soleado,2,31,2
+Terminal,Aeropuerto,Domingo,21,Lluvioso,14,27,2
+Aeropuerto,Universidad,Jueves,16,Lluvioso,14,37,2
+Universidad,Estadio,Martes,18,Nublado,12,74,4
+Aeropuerto,Universidad,Domingo,19,Soleado,9,79,4
+Parque Santander,Estadio,Viernes,20,Soleado,3,43,3
+Universidad,Parque Santander,Lunes,5,Soleado,6,27,2
+Aeropuerto,Parque Santander,Lunes,14,Nublado,3,28,2
+Universidad,Parque Santander,Domingo,12,Soleado,7,29,2
+Aeropuerto,Parque Santander,Miércoles,22,Nublado,5,25,2
+Parque Santander,Universidad,Domingo,5,Nublado,7,28,2
+Aeropuerto,Terminal,Miércoles,6,Nublado,2,36,2
+Aeropuerto,Parque Santander,Domingo,5,Lluvioso,14,34,2
+Aeropuerto,Universidad,Viernes,5,Soleado,2,45,3
+Terminal,San Pedro Plaza,Sábado,13,Soleado,4,44,3
+Terminal,San Pedro Plaza,Lunes,17,Nublado,11,72,4
+Terminal,San Pedro Plaza,Domingo,5,Nublado,3,38,2
+Parque Santander,Aeropuerto,Viernes,17,Soleado,13,64,3
+Universidad,Parque Santander,Miércoles,11,Nublado,6,28,2
+Estadio,Parque Santander,Miércoles,6,Soleado,7,38,2
+Aeropuerto,Estadio,Lunes,10,Lluvioso,15,34,2
+Aeropuerto,San Pedro Plaza,Jueves,11,Nublado,2,41,3
+Parque Santander,Estadio,Domingo,18,Soleado,12,69,3
+Aeropuerto,San Pedro Plaza,Martes,22,Nublado,3,31,2
+Terminal,Parque Santander,Miércoles,19,Soleado,11,75,4
+Estadio,Parque Santander,Sábado,6,Soleado,6,25,2
+San Pedro Plaza,Estadio,Sábado,14,Nublado,5,41,3
+Aeropuerto,Estadio,Miércoles,16,Lluvioso,15,45,3
+Terminal,Aeropuerto,Jueves,21,Soleado,3,33,2
+San Pedro Plaza,Parque Santander,Jueves,12,Soleado,4,30,2
+Estadio,Aeropuerto,Viernes,15,Soleado,6,43,3
+San Pedro Plaza,Estadio,Sábado,7,Lluvioso,19,72,4
+Terminal,Universidad,Viernes,10,Lluvioso,15,27,2
+Universidad,Estadio,Sábado,13,Nublado,3,31,2
+Universidad,Aeropuerto,Domingo,10,Lluvioso,14,33,2
+San Pedro Plaza,Terminal,Domingo,13,Nublado,7,29,2
+Parque Santander,Estadio,Martes,11,Nublado,6,34,2
+San Pedro Plaza,Terminal,Domingo,13,Lluvioso,14,41,3
+Aeropuerto,San Pedro Plaza,Martes,22,Nublado,2,36,2
+Aeropuerto,Parque Santander,Domingo,16,Lluvioso,16,40,2
+Universidad,Parque Santander,Lunes,12,Nublado,4,27,2
+Parque Santander,Aeropuerto,Domingo,12,Lluvioso,15,33,2
+Terminal,Universidad,Viernes,22,Lluvioso,16,39,2
+Aeropuerto,Universidad,Miércoles,19,Nublado,12,64,3
+Universidad,Aeropuerto,Viernes,11,Soleado,3,37,2
+Estadio,Parque Santander,Miércoles,15,Nublado,5,38,2
+Universidad,Parque Santander,Jueves,20,Lluvioso,12,44,3
+Aeropuerto,Terminal,Viernes,8,Soleado,13,74,4
+Aeropuerto,San Pedro Plaza,Jueves,10,Nublado,4,40,2
+Universidad,Terminal,Martes,7,Nublado,9,72,4
+Terminal,Universidad,Martes,13,Nublado,4,41,3
+San Pedro Plaza,Universidad,Lunes,14,Soleado,2,32,2
+Aeropuerto,Universidad,Domingo,18,Lluvioso,18,80,4
+Universidad,Parque Santander,Viernes,15,Nublado,6,26,2
+Universidad,Estadio,Jueves,22,Nublado,2,29,2
+Parque Santander,Terminal,Miércoles,16,Nublado,4,30,2
+San Pedro Plaza,Aeropuerto,Martes,16,Nublado,5,36,2
+Estadio,San Pedro Plaza,Domingo,17,Nublado,11,77,4
+Terminal,Parque Santander,Martes,17,Lluvioso,22,60,3
+Estadio,Terminal,Miércoles,18,Lluvioso,23,76,4
+San Pedro Plaza,Parque Santander,Domingo,8,Nublado,10,70,3
+San Pedro Plaza,Estadio,Domingo,17,Soleado,10,69,3
+San Pedro Plaza,Terminal,Jueves,12,Lluvioso,12,43,3
+Estadio,Universidad,Jueves,16,Soleado,4,38,2
+San Pedro Plaza,Universidad,Viernes,22,Lluvioso,13,34,2
+Universidad,Aeropuerto,Viernes,10,Nublado,7,39,2
+Estadio,San Pedro Plaza,Sábado,22,Lluvioso,12,43,3
+San Pedro Plaza,Universidad,Sábado,9,Nublado,9,63,3
+Universidad,Aeropuerto,Lunes,13,Lluvioso,16,26,2
+Parque Santander,Estadio,Martes,7,Nublado,11,68,3
+San Pedro Plaza,Aeropuerto,Viernes,14,Nublado,6,34,2
+Estadio,Universidad,Jueves,7,Nublado,11,70,3
+Aeropuerto,Parque Santander,Miércoles,19,Nublado,12,73,4
+San Pedro Plaza,Parque Santander,Jueves,5,Soleado,4,31,2
+Aeropuerto,Parque Santander,Martes,11,Nublado,3,39,2
+Universidad,San Pedro Plaza,Sábado,16,Soleado,5,43,3
+Parque Santander,San Pedro Plaza,Jueves,21,Soleado,2,39,2
+Terminal,San Pedro Plaza,Lunes,9,Nublado,9,67,3
+Parque Santander,Estadio,Martes,8,Soleado,8,70,3
+San Pedro Plaza,Aeropuerto,Sábado,16,Lluvioso,13,33,2
+Aeropuerto,Parque Santander,Miércoles,22,Nublado,3,39,2
+Aeropuerto,Universidad,Sábado,21,Soleado,6,25,2
+Estadio,Parque Santander,Domingo,13,Nublado,5,25,2
+Aeropuerto,Parque Santander,Lunes,8,Nublado,11,78,4
+Estadio,Terminal,Martes,6,Nublado,3,27,2
+Universidad,Estadio,Miércoles,8,Soleado,10,69,3
+Terminal,San Pedro Plaza,Lunes,6,Lluvioso,14,32,2
+San Pedro Plaza,Aeropuerto,Sábado,19,Lluvioso,18,74,4
+Estadio,Terminal,Lunes,6,Soleado,2,34,2
+Terminal,Estadio,Martes,8,Nublado,12,60,3
+Aeropuerto,Universidad,Viernes,10,Soleado,3,42,3
+Aeropuerto,Terminal,Lunes,11,Soleado,2,26,2
+Terminal,Universidad,Domingo,14,Soleado,2,43,3
+Aeropuerto,San Pedro Plaza,Lunes,16,Nublado,7,37,2
+Universidad,Terminal,Sábado,7,Soleado,9,60,3
+Universidad,Terminal,Sábado,17,Nublado,12,61,3
+Terminal,Estadio,Miércoles,22,Soleado,2,40,2
+Estadio,San Pedro Plaza,Sábado,12,Lluvioso,16,39,2
+Estadio,Terminal,Jueves,19,Soleado,11,72,4
+Terminal,San Pedro Plaza,Martes,5,Soleado,6,40,2
+Estadio,Aeropuerto,Martes,7,Lluvioso,20,76,4
+Estadio,Parque Santander,Viernes,12,Nublado,4,45,3
+Universidad,Terminal,Viernes,8,Nublado,12,66,3
+Estadio,San Pedro Plaza,Martes,20,Soleado,4,41,3
+Parque Santander,Aeropuerto,Domingo,14,Lluvioso,15,31,2
+San Pedro Plaza,Terminal,Viernes,16,Nublado,3,37,2
+Aeropuerto,Universidad,Miércoles,18,Soleado,10,64,3
+Parque Santander,Aeropuerto,Sábado,18,Lluvioso,20,76,4
+Estadio,Terminal,Martes,6,Nublado,6,27,2
+Universidad,San Pedro Plaza,Viernes,9,Nublado,11,66,3
+Terminal,Parque Santander,Martes,9,Lluvioso,19,76,4
+Estadio,Aeropuerto,Jueves,10,Lluvioso,16,31,2
+Universidad,Terminal,Lunes,17,Lluvioso,22,80,4
+San Pedro Plaza,Estadio,Sábado,13,Lluvioso,17,25,2
+Estadio,Universidad,Martes,19,Soleado,11,76,4
+Terminal,San Pedro Plaza,Lunes,18,Lluvioso,19,76,4
+Universidad,Aeropuerto,Viernes,11,Nublado,5,35,2
+Universidad,Aeropuerto,Lunes,6,Nublado,3,27,2
+Universidad,Parque Santander,Sábado,11,Soleado,5,39,2
+San Pedro Plaza,Parque Santander,Martes,10,Nublado,6,45,3
+Estadio,Aeropuerto,Jueves,21,Nublado,6,35,2
+San Pedro Plaza,Universidad,Domingo,6,Lluvioso,12,40,2
+Aeropuerto,Estadio,Viernes,7,Nublado,10,68,3
+Aeropuerto,Terminal,Martes,9,Soleado,13,60,3
+Estadio,Terminal,Sábado,9,Lluvioso,21,75,4
+San Pedro Plaza,Estadio,Viernes,5,Lluvioso,17,33,2
